@@ -1,0 +1,11 @@
+title: Liam's Lab
+description: 在这里做了各种各样的实验。
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+url: https://turbulent-flow.github.io
+baseurl: /liam-lab
+
+# search_enabled: true
+# heading_anchors: true
